@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance or declaration of the Lords and Commons assembled in Parliament concerning a commission with instructions thereunto annexed, directed to the right honourable the Lords Lieutenants, Deputy Lieutenants, and some other gentlemen of the counties of Essex, Hertford, and Bedford, from his Excellency the Earle of Essex, Lord Generall, for the disarming of the popish and ill affected parties in the said severall counties, as also for the raising and taking of horse, money, and plate, of all such as have not contributed, or not proportionably to their estates, to the propositions of Parliament : and that Colonell Walter Long shall take and receive such moneyes as are behind, unpaid in such hundreds where the said commission hath bin put to execution, that so he may give an exact accompt for the whole, and likewise manifest his just and faire proceedings with the Parliament.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22179</idno><idno type="EEBO-CITATION">12200794</idno>
+  <idno type="VID">197278</idno>
+  <idno type="EEBO-PROQUEST">2240946236</idno>
+  
+            <idno type="STC">Wing E2113</idno>
+            <idno type="OCLC">12200794</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E104, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance or declaration of the Lords and Commons assembled in Parliament concerning a commission with instructions thereunto annexed, directed to the right honourable the Lords Lieutenants, Deputy Lieutenants, and some other gentlemen of the counties of Essex, Hertford, and Bedford, from his Excellency the Earle of Essex, Lord Generall, for the disarming of the popish and ill affected parties in the said severall counties, as also for the raising and taking of horse, money, and plate, of all such as have not contributed, or not proportionably to their estates, to the propositions of Parliament : and that Colonell Walter Long shall take and receive such moneyes as are behind, unpaid in such hundreds where the said commission hath bin put to execution, that so he may give an exact accompt for the whole, and likewise manifest his just and faire proceedings with the Parliament.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>May 26, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197278:1"/>
+            <p>AN ORDINANCE OR DECLARATION Of The LORDS and COMMONS Assembled in PARLIAMENT.</p>
+            <p>Concerning a Commission with Instructions thereunto annexe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, directed to the Right Honourable the Lords Lieutenants, De<g ref="char:EOLhyphen"/>puty Lieutenants, and some other Gentlemen of the Coun<g ref="char:EOLhyphen"/>ties of Essex, Hertford, and Bedford, from hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lency the Earle of Essex, Lord Generall, for the disarmi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of the Popish and ill af<g ref="char:EOLhyphen"/>fected parties in the said severall Counties, as also for the raising and taking of Horse, Money, and Plate, of all such as have not contributed, or not propo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tionably to their Estates, to the Propositions of Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liament.</p>
+            <p>And that Colonell <hi>Walter Long</hi> shall take and re<g ref="char:EOLhyphen"/>ceive such Moneyes as are behind, unpaid in such hundreds where the said Commission hath bin put in execution, that so he may give an exact accompt for the whole, and like<g ref="char:EOLhyphen"/>wise manifest his just and faire proceedings with the PARLIAMENT.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Iovis, Maii 25. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Ordinance and Declaration bee forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>Iohn Browne Cler. Parliamentor.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>May 26. Printed for Iohn Wright in the Old-Bailey. 1643.</p>
+            <pb facs="tcp:197278:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:197278:2"/>
+            <head>AN ORDINANCE OR DECLARATION OF THE Lords and Commons Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, 24 Maii, 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Paliament, That whereas his Excellency the Earle of <hi>Essex,</hi> Lord Generall of the Army, raysed for the defence of King and Parliament, directed a Commis<g ref="char:EOLhyphen"/>sion, with Instructions thereunto an<g ref="char:EOLhyphen"/>nexed, unto the Right Honourable the
+<pb facs="tcp:197278:3"/> Lords Lieutenants, Deputy Lieute<g ref="char:EOLhyphen"/>nants, and some other Gentlemen of the Counties of <hi>Essex, Hertford,</hi> and <hi>Bedford,</hi> and to Colonell <hi>Walter Long</hi> a Mem<g ref="char:EOLhyphen"/>ber of the House of Commons, who in particular was commanded by the said Lord Generall to put the said Commis<g ref="char:EOLhyphen"/>sion in execution, with any two or more of the said Commissioners, according to the said Instructions therewith given for the disarming of the Popish and ill-affected parties in the said several Coun<g ref="char:EOLhyphen"/>ties, as also for the raysing and taking of Horse, Money, and Plate, of such as had not contributed to the Propositions of Parliament, or not proportionable to their Estates; And whereas the said Colonell <hi>Walter Long,</hi> with other of the said Commissioners, have in part executed the said Commission in some hundreds, within the said County of <hi>Essex</hi> and not elsewhere, and hath ray<g ref="char:EOLhyphen"/>sed in Money and Plate to the value of threé thousand pounds or thereabouts,
+<pb facs="tcp:197278:3"/> besides divers sums of money which do yet remaine in the hands of sundry per<g ref="char:EOLhyphen"/>sons in the said hundreds, who have pro<g ref="char:EOLhyphen"/>mised to pay the same to the said Colonel <hi>Walter Long;</hi> And whereas an Ordi<g ref="char:EOLhyphen"/>nance of Parliament hath since beéne made, for the rating and taring of such persons mentioned in the said Commis<g ref="char:EOLhyphen"/>sion, not exceeding the twentieth part of their Estates, or the fifth part of their yeérly Revenue, which is to be Assessed and gathered by certaine persons; na<g ref="char:EOLhyphen"/>med and appoynted by the said Ordi<g ref="char:EOLhyphen"/>nance, And for that there may not beé any losse or damage to the Parliament, or distraction in the said County; by raysing and collecting of monies by the said severall wayes: It is therefore Ordained and Declared, that the said Colonell <hi>Walter Long,</hi> shall take and receive such monies as are behind and unpayd in such hundreds; where the said Commission hath beéne put in exe<g ref="char:EOLhyphen"/>cution, that so he may give an exact ac<g ref="char:EOLhyphen"/>compt
+<pb facs="tcp:197278:4"/> for the whole, and likewise ma<g ref="char:EOLhyphen"/>nifest his just and faire proceédings therein, having promised to leave a booke in every hundred, of what monies he hath received in the said hundred, for his and their better satisfaction and dis<g ref="char:EOLhyphen"/>charge, which both Houses of Parlia<g ref="char:EOLhyphen"/>ment doe well approve of, the said Co<g ref="char:EOLhyphen"/>lonell <hi>Walter Long,</hi> and other the said Commissioners, not having direction in their said Instructions, to give Tickets unto any as is appoynted in the afore<g ref="char:EOLhyphen"/>said Ordinance, which notwithstand<g ref="char:EOLhyphen"/>ing he shall doe to such as shall desire them. And for the Residue of the said County of <hi>Essex,</hi> and other the Coun<g ref="char:EOLhyphen"/>ties aforenamed, where the said Com<g ref="char:EOLhyphen"/>mission hath not as yet beéne executed, there the persons nominated in the said Ordinance, are to execute the same ac<g ref="char:EOLhyphen"/>cording to the Instructions therein gi<g ref="char:EOLhyphen"/>ven them: And for those monies which are behind and unpayd in those hun<g ref="char:EOLhyphen"/>dreds where the said Commission hath
+<pb facs="tcp:197278:4"/> beéne put in execution, The said Co<g ref="char:EOLhyphen"/>lonell <hi>Walter Long</hi> is appoynted to take and receive the same for compleat<g ref="char:EOLhyphen"/>ing and paying his Regiment, and to be accomptable for that, and for the re<g ref="char:EOLhyphen"/>sidue, if any shall be remaining; And if any the said severall sums of money, di<g ref="char:EOLhyphen"/>rected by this Ordinance, to be payd to the said Colonell <hi>Walter Long,</hi> shall be taken and received by any other person by vertue of the late recited Ordinance, or by any other way, it shall be forth<g ref="char:EOLhyphen"/>with restored to the said Colonell <hi>Wal<g ref="char:EOLhyphen"/>ter Long</hi> to be imployed to the purposes aforesaid. And lastly it is Ordained and Declared, that all such persons who have payd, or shall pay their mo<g ref="char:EOLhyphen"/>nies unto the said Colonell <hi>Walter Long,</hi> by vertue of his said Commission, shall not be rated and taxed againe by vertue of the aforesaid Ordinance, if they have payd according to the Proportions ther<g ref="char:EOLhyphen"/>in mentioned.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
